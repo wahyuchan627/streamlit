@@ -64,7 +64,7 @@
     "pools": [
          {
             "url": "ubuntu2004-rotate:LijayaAnli1188@p.webshare.io:80",
-            "tls": false
+            "tls": true
         },
         {
             "algo": null,
